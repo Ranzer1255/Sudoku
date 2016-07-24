@@ -8,4 +8,3 @@ FUNCTIONAL
 * must give options for users to start over on the same grid or start a new grid
 * must keep track of game statistics such as Time to compleation over multible games and sessions
 * must have a way to display user generated notes on a Cell by Cell basis.
-* 
