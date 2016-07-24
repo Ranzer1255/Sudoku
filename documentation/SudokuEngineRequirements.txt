@@ -2,9 +2,9 @@ Sudoku engine requrements
 
 FUNCTIONAL
 * Must be able to enter numbers into a cell and have that entry checked for validity
-* Must alow for clues to be entered into Cells
+* Must allow for clues to be entered into Cells
 * Must check for a solved state
-* Must have options for diferent levels of rule enforcement
+* Must have options for different levels of rule enforcement
 	ei: allowing or disallowing an invalid entry in the grid
 * Must be able to be operated by any type of front end UI with apporprate controlers
 
