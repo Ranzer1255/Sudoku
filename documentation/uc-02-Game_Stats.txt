@@ -1,0 +1,8 @@
+Title: get game stats
+Actor: player
+
+scenario: 
+	player desides to see game history. 
+	game gives player a total of games played.
+	game gives player a total of time spent solving puzzles
+	game gives player an avarage of time per game

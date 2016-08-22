@@ -1,0 +1,4 @@
+Title: Start Game
+Actor: Player
+
+Senario: player desides to start game. game is made and displays puzzle to be solved
